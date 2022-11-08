@@ -1,2 +1,2 @@
-# spotify_clone
+# Spotify Clone
 Spotify clone for browser
